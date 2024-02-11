@@ -1,0 +1,7 @@
+this is just standard paragraph text.
+this is on a new line
+"""
+this is inside of a tripple colon, therefore 
+the newlines are removed, but i can add them back 
+manually with a ^br^ br tag.
+"""
